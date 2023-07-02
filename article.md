@@ -1,0 +1,1 @@
+## Динамическое Data Quality с использованием Flink State Fun
